@@ -1,0 +1,188 @@
+ /* Astric symbol neye margin and padding 0 kore dete hbe */
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ /* Astric symbol neye margin and padding 0 kore dete hbe */
+
+ /* Body style here  */
+
+ body {
+     background-color: #EEE;
+     font-family: 'Roboto', sans-serif;
+ }
+
+ /* Body style end  */
+
+ /* Header Style Here  */
+
+ .container {
+     max-width: 1000px;
+     background-color: #e4f9f5;
+     margin: 0 auto;
+     padding: 20px;
+ }
+
+ header {}
+
+ .profile-img {
+     height: 150px;
+     width: 150px;
+     border: 3px solid white;
+     border-radius: 50%;
+     float: left;
+ }
+
+ .header-bio {
+     float: left;
+     padding: 30px;
+
+ }
+
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 {
+     color: #11999e;
+ }
+
+ .header-contact {
+     float: right;
+     padding: 30px;
+ }
+
+ .header-contact a {
+     text-decoration: none;
+     color: teal;
+     font-weight: bold;
+    
+
+
+ }
+
+ .header-contact a:hover {
+     text-decoration: underline;
+     color: tomato;
+
+ }
+
+ .clear-div {
+     clear: both;
+ }
+
+ hr {
+     border: solid black 4px;
+     width: 100%;
+     margin: 20px auto;
+     border-bottom: none;
+
+ }
+
+ /* Header style End  */
+
+ /* Main Section Here  */
+
+ /* Personal Information Start Here */
+ #personal-section{
+
+ }
+.content{
+
+}
+
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+
+.right-div{
+    width: 70%;
+    float: left;
+
+}
+
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+
+
+ /* Personal Information End Here  */
+
+ /* education section here  */
+
+ .edu-template-left{
+    float: left;
+    width: 45%;
+
+ }
+
+ .edu-template-right{
+    float: right;
+    width: 45%;
+
+ }
+
+ /* Honors and Award Section start */
+
+ /* Honors and education section end  */
+
+/* References start */
+.references-template-left{
+    float: left;
+    width: 45%;
+
+ }
+
+ .references-template-right{
+    float: right;
+    width: 45%;
+
+ }
+
+/* References end */
+ 
+
+ /* Main Section End  */
+
+ /* Footer Section Here  */
+
+ .bottom-container{ 
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+
+
+ }
+
+ .bottom-container a{
+    color: white;
+    text-decoration: none;
+    margin: 50px;
+
+
+ }
+
+ .bottom-container a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color: tomato;
+
+
+ }
+
+ .bottom-container p{
+    color: white;
+    margin-top: 20px;
+
+
+ }
+
+ /* Footer Section Here  */
